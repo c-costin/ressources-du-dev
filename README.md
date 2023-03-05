@@ -5,6 +5,14 @@
 ### *RGPD :*
 - Guide par la cnil : https://lincnil.github.io/Guide-RGPD-du-developpeur/#Tables_des_mati%C3%A8res
 
+### *Mentions Légales :*
+- Obligation de mentions légales : https://entreprendre.service-public.fr/vosdroits/F31228
+- "Générateur de mentions légales" /!\ ATTENTION : https://www.legalplace.fr/contrats/mentions-legales-2/
+
+### *Conditions générales de vente (CGV) :*
+- Guide de rédaction de CGV :  https://www.francenum.gouv.fr/guides-et-conseils/developpement-commercial/site-e-commerce/rediger-des-conditions-generales-de
+- Obligation de CGV : https://entreprendre.service-public.fr/vosdroits/F33527
+
 ### *Accessiblité :*
 - RGAA : https://accessibilite.numerique.gouv.fr/
 - ARIA Authoring Practices Guide (APG) : https://www.w3.org/WAI/ARIA/apg/
@@ -16,25 +24,62 @@
 - Guide par MDN : https://infosec.mozilla.org/guidelines/web_security
 - Cheat sheet par OWASP : https://cheatsheetseries.owasp.org/index.html
 
+### *Cachier des charges :*
+- Exemple de cachier des charges : https://www.lafabriquedunet.fr/blog/exemple-cahier-des-charges-application-mobile/
+- Générez votre cahier des charges en ligne : https://la-webeuse.com/cahier-des-charges/
+
+### *Documentation/Resources* :
+- devdocs.io : https://devdocs.io/
+- MDN Web Docs : https://developer.mozilla.org/fr/
+- w3Docs : https://www.w3docs.com/
+- GitBook : https://git-scm.com/book/fr/v2
+- sql.sh : https://sql.sh/
+- HTML Refernce : https://htmlreference.io/
+- CSS Reference : https://cssreference.io/
+- Cheat Sheet : https://overapi.com/
+- Cheat Sheet : https://cheatsheets.shecodes.io/html
+- Cheat Sheet Markdown : https://devhints.io/markdown
+- Doc BEM Médologie : https://getbem.com/
+- Building a better web, together : https://web.dev/
+- Resources JS : https://www.javascript.com/resources
+- Entrainement securité pour les devs : https://www.hacksplaining.com/
+
 <br>
 
 ## Outils :
 
+### *HTML :*
+- HTML Entités/Symbole : https://symbl.cc/fr/html-entities/
+
 ### *CSS :*
-- App multi-affichage d'écran pour resposive : https://responsively.app/
 - Nettoyer du code inutile : https://purifycss.online/
-- Box Shadow : https://getcssscan.com/css-box-shadow-examples
+- Modern CSS reset : https://www.ellyloel.com/projects/modern-css-reset/
+- Normalize CSS : https://unpkg.com/browse/normalize.css@8.0.1/normalize.css
+- Can I use : https://caniuse.com/
+- Calculateur de spécificité : https://specificity.keegan.st/
+- Box shadow : https://getcssscan.com/css-box-shadow-examples
+- Box shadow : https://manuarora.in/boxshadows
 - Neumorphism : https://neumorphism.io/
 - Glassmorpism : https://hype4.academy/tools/glassmorphism-generator
+
+### *JavaScript :*
+- Tableau des comparaison JS : https://dorey.github.io/JavaScript-Equality-Table/
+
+### *PHP :*
+- Packagist : https://packagist.org/
 
 ### *Color :*
 - Génération de palettes de couleur : https://coolors.co/
 - Test l'accessibilité de la couleur avec Adobe : https://color.adobe.com/fr/create/color-contrast-analyzer
 
-### *SVG :*
+### *Image/SVG :*
+- Supprimer un fond d'un image : https://www.remove.bg/fr
 - Génération de vagues : https://getwaves.io/
 - Génération de blobs : https://www.blobmaker.app/
-- Génération de blobs : https://lokesh-coder.github.io/blobs.app/?
+- Génération de blobs : https://lokesh-coder.github.io/blobs.app/
+
+### *Responsive :*
+- App multi-affichage d'écran pour resposive : https://responsively.app/
 
 ### *Fonts :*
 - Choisir une pair de Font : https://www.fontpair.co/
@@ -56,6 +101,10 @@
 - Tester de mail : https://www.mail-tester.com/
 - Tester de cryptage d'un site : https://cryptcheck.fr/
 - Calculateur l'empreinte carbone du site : https://www.websitecarbon.com/
+- Test l'impact environnemental : https://www.ecoindex.fr/
+
+### *Couteau suisse :*
+- 100L5 : https://10015.io/
 
 ### *Serveur :*
 - Installation de let's encrypt : https://certbot.eff.org/
@@ -63,14 +112,11 @@
 <br>
 
 ## Challenge/Pratique :
+- AlgoBlocs : https://www.algoblocs.fr/index.php
+- 12 jeux pour apprenre le CSS : https://www.commentcoder.com/jeux-apprendre-css/
 - Dev Challenge : https://devchallenges.io/
 - Frontend Mentor : https://www.frontendmentor.io
 - Frontend Pratice : https://www.frontendpractice.com/
-- CSS Diner : https://flukeout.github.io/
-- Flexbox Froggy : https://flexboxfroggy.com/#fr
-- Flexbox Defense : http://www.flexboxdefense.com/
-- Grid Garden : https://cssgridgarden.com/#fr
-<!-- - DOM Event : https://domevents.dev/ -->
 
 <br>
 
@@ -81,15 +127,15 @@
 - Dribble : https://dribbble.com/
 - Awwwards : https://www.awwwards.com/
 
+### *Template :*
+- HTML5up :  https://html5up.net/
+
 ### *Bibliothèque d'image (Open Source) :*
 - Unplash : https://unsplash.com/fr
 - Pixabay : https://pixabay.com/
 
 ### *Bibliothèque d'icon (Open Source) :*
 - Icon Noir : https://iconoir.com/
-
-### *Administratif :*
-- Obligation de mentions légales : https://entreprendre.service-public.fr/vosdroits/F31228
 
 ### *Testeur de mot de passe :*
 - Test de force d'un mot de passe : https://www.bennish.net/password-strength-checker/
@@ -99,3 +145,4 @@
 
 ### *Création d'un diapo :*
 - Slides : https://slides.com/?ref=embed
+- Reveal.js : https://revealjs.com/
