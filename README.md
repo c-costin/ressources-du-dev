@@ -61,6 +61,7 @@
 - Box shadow : https://manuarora.in/boxshadows
 - Neumorphism : https://neumorphism.io/
 - Glassmorpism : https://hype4.academy/tools/glassmorphism-generator
+- Animation CSS : https://animate.style/
 
 ### *JavaScript :*
 - Tableau des comparaison JS : https://dorey.github.io/JavaScript-Equality-Table/
@@ -77,6 +78,8 @@
 - Génération de vagues : https://getwaves.io/
 - Génération de blobs : https://www.blobmaker.app/
 - Génération de blobs : https://lokesh-coder.github.io/blobs.app/
+- Génération background dynamique : https://loading.io/background/
+- Génération background statique : https://app.haikei.app/
 
 ### *Responsive :*
 - App multi-affichage d'écran pour resposive : https://responsively.app/
