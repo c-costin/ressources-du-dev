@@ -44,6 +44,10 @@
 - Resources JS : https://www.javascript.com/resources
 - Entrainement securité pour les devs : https://www.hacksplaining.com/
 - Code d'état : https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP#Codes_d.27.C3.A9tat
+- Methodologie BEM : https://alticreation.com/bem-pour-le-css/
+- Mise en page CSS : https://fr.learnlayout.com/
+- Guide Flexbox : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- Doc PHP : https://www.php.net/
 
 <br>
 
@@ -51,7 +55,6 @@
 
 ### *HTML :*
 - HTML Entités/Symbole : https://symbl.cc/fr/html-entities/
-- Indentation HTML : https://waytolearnx.com/indenter-automatiquement-du-code-html#output
 - Validation de HTML : https://validator.w3.org/#validate_by_uri+with_options
 
 ### *CSS :*
@@ -65,17 +68,14 @@
 - Neumorphism : https://neumorphism.io/
 - Glassmorpism : https://hype4.academy/tools/glassmorphism-generator
 - Animation CSS : https://animate.style/
-- Methodologie BEM : https://alticreation.com/bem-pour-le-css/
-- Mise en page CSS : https://fr.learnlayout.com/
-- Guide Flexbox : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 - nth Test : https://css-tricks.com/examples/nth-child-tester/
+
 
 ### *JavaScript :*
 - Tableau des comparaison JS : https://dorey.github.io/JavaScript-Equality-Table/
 
 ### *PHP :*
 - Packagist : https://packagist.org/
-- Doc PHP : https://www.php.net/
 
 ### *Color :*
 - Génération de palettes de couleur : https://coolors.co/
