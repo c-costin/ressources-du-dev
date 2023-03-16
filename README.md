@@ -43,6 +43,11 @@
 - Building a better web, together : https://web.dev/
 - Resources JS : https://www.javascript.com/resources
 - Entrainement securité pour les devs : https://www.hacksplaining.com/
+- Code d'état : https://fr.wikipedia.org/wiki/Liste_des_codes_HTTP#Codes_d.27.C3.A9tat
+- Methodologie BEM : https://alticreation.com/bem-pour-le-css/
+- Mise en page CSS : https://fr.learnlayout.com/
+- Guide Flexbox : https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+- Doc PHP : https://www.php.net/
 
 <br>
 
@@ -50,6 +55,7 @@
 
 ### *HTML :*
 - HTML Entités/Symbole : https://symbl.cc/fr/html-entities/
+- Validation de HTML : https://validator.w3.org/#validate_by_uri+with_options
 
 ### *CSS :*
 - Nettoyer du code inutile : https://purifycss.online/
@@ -62,6 +68,8 @@
 - Neumorphism : https://neumorphism.io/
 - Glassmorpism : https://hype4.academy/tools/glassmorphism-generator
 - Animation CSS : https://animate.style/
+- nth Test : https://css-tricks.com/examples/nth-child-tester/
+
 
 ### *JavaScript :*
 - Tableau des comparaison JS : https://dorey.github.io/JavaScript-Equality-Table/
@@ -112,6 +120,10 @@
 ### *Serveur :*
 - Installation de let's encrypt : https://certbot.eff.org/
 
+### *Wireframe :*
+- wireframe.cc : https://wireframe.cc/
+- Figma : https://www.figma.com/
+
 <br>
 
 ## Challenge/Pratique :
@@ -120,12 +132,14 @@
 - Dev Challenge : https://devchallenges.io/
 - Frontend Mentor : https://www.frontendmentor.io
 - Frontend Pratice : https://www.frontendpractice.com/
+- Ztype : https://zty.pe/?url=https://developer.mozilla.org/en-US/docs/Learn/HTML
+- Learn Git Branching : https://learngitbranching.js.org/?locale=fr_FR
 
 <br>
 
 ## Divers :
 
-### *Inspiration/Idéé :*
+### *Inspiration/Idée :*
 - Behance : https://www.behance.net/
 - Dribble : https://dribbble.com/
 - Awwwards : https://www.awwwards.com/
@@ -149,3 +163,13 @@
 ### *Création d'un diapo :*
 - Slides : https://slides.com/?ref=embed
 - Reveal.js : https://revealjs.com/
+
+### *Traducteur :*
+- https://www.deepl.com/fr/translator
+
+### *Recherche d'emploi :*
+- apec : https://www.apec.fr/
+- diversifiez vos talent ; https://diversifiezvostalents.com/#/
+- grimp : https://www.grimp.io/
+- welcome to the jungle : https://www.welcometothejungle.com/fr
+- indeed : https://fr.indeed.com/
